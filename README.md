@@ -14,7 +14,7 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 
 1. `fsharpc -a rougelike.fs`
 2. `fsharpc -r rougelike.dll rougelike-game.fsx`
-3. `mono rougelike-Game.exe`
+3. `mono rougelike-game.exe`
 
 ## Hvordan man compiler og kører programmet ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
