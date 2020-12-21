@@ -9,11 +9,11 @@ Opgaven er lavet af:
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
 
 ## Følgende Entities findes i spillet ##
-
+  
 * __Player:__ Er repræsenteret som et hvidt "@" med darkmagenta (lyserød) baggrund. 
 * __Wall:__ Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem disse, og er derfor nødt til at gå rundt om dem. 
 * __Water:__ Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 3 ekstra liv, og vandet forsvinder.
-* __Fire:__ Er repræsenteret som et rødt felt #28a745, $bg-green. Hvis man går over ilden mister 1 man liv, når man har gået over ilden 5 gange, går ilden ud
+* __Fire:__ Er repræsenteret som et rødt felt-. Hvis man går over ilden mister 1 man liv, når man har gået over ilden 5 gange, går ilden ud
 * __FleshEatingPlant:__ Er repræsenteret som et hvidt "P" med grøn baggrund. Hvis prøver at gå ind i den kødeædende planter, angriber den dig, og man mister 5 liv.
 * __Teleport:__ Er repræsenteret med et blåt "T" med lyserød baggrund.
 * __Hints:__ Er repræsenteret med et blåt "H" med blå baggrund. Disse kan samles op, hvorved et tekststykke bliver tilføjet til spillerens inventory, der kan ses under kanvasset.
