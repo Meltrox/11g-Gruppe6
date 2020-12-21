@@ -5,7 +5,7 @@ Opgaven er lavet af:
 * Johannes Rosendal 
 * Johannes Andersen
 
-## Hvordan man compiler og kører programmerne ##
+## Hvordan man compiler og kører programmeret ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
 
 ## Test af de forskellige implementationer ##
@@ -17,4 +17,11 @@ Hvis spilleren mister alle sine HP, dør spilleren og spillet slutter.
 
 <img src="https://i.imgur.com/KmIR1Oi.gif" width="600">
 
-### Test af klassen "Fire" ###
+### Test af klassen "FleshEatingPlant, CodeDoor and Exit" ###
+
+Spilleren mister 5HP, når man prøver at gå oven i et felt, som er optaget af en "FleshEatingPlant".
+
+Spilleren skal ved interaktion med "CodeDoor" 
+
+<img src="https://i.imgur.com/OicaF8J.gif" width="600">
+
