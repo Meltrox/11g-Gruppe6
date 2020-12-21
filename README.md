@@ -34,7 +34,7 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 
 Et billede af ovenstående entities
 
-<img src="https://i.imgur.com/fqkBbD2.png" width="250">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://i.imgur.com/fqkBbD2.png" width="250">
 
 ## Test af de forskellige implementeringer ##
 
