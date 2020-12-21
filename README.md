@@ -12,9 +12,9 @@ Følgende filer skal benyttes for at kunne køre koden:
 
 Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 
-1. __fsharpc -a rougelike.fs__
-2. __fsharpc -r rougelike.dll rougelike-game.fsx__
-3. __mono rougelike-Game.exe__
+1. `fsharpc -a rougelike.fs`
+2. `fsharpc -r rougelike.dll rougelike-game.fsx`
+3. `mono rougelike-Game.exe`
 
 ## Hvordan man compiler og kører programmet ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
