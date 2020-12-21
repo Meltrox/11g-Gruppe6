@@ -5,6 +5,17 @@ Opgaven er lavet af:
 * Johannes Rosendal 
 * Johannes Andersen
 
+Følgende filer skal benyttes for at kunne køre koden:
+
+1. rougelike.fs
+2. rougelike-game.fsx
+
+Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
+
+1. __fsharpc -a rougelike.fs__
+2. __fsharpc -r rougelike.dll rougelike-game.fsx__
+3. __mono rougelike-Game.exe__
+
 ## Hvordan man compiler og kører programmet ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
 
