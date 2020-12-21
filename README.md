@@ -21,7 +21,7 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 
 ## Følgende Entities findes i spillet ##
   
-* __Player:__ Er repræsenteret som et hvidt "@" med darkmagenta (lyserød) baggrund. 
+* __Player:__ Er repræsenteret som et hvidt "@" med darkmagenta (lilla) baggrund. 
 * __Wall:__ Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem væggene, og er derfor nødt til at gå rundt om dem. 
 * __Water:__ Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 2 ekstra liv, og vandet forsvinder.
 * __Fire:__ Er repræsenteret som et rødt felt-. Hvis man går over ilden mister man 1HP. Når man har gået over ilden 5 gange, går ilden ud.
@@ -34,7 +34,7 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 
 Et billede af ovenstående entities
 
-<img src="https://i.imgur.com/fqkBbD2.png" width="200">
+<img src="https://i.imgur.com/fqkBbD2.png" width="250">
 
 ## Test af de forskellige implementeringer ##
 
