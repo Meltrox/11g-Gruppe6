@@ -10,14 +10,14 @@ Opgaven er lavet af:
 
 ## Følgende Entities findes i spillet ##
 
-* Player:  Er repræsenteret som et hvidt "@" med darkmagenta (lyserød) baggrund. 
-* Wall: Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem disse, og er derfor nødt til at gå rundt om dem. 
-* Water: Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 3 ekstra liv, og vandet forsvinder.
-* Fire: Er repræsenteret som et rødt hvidt "F" med rød baggrundgrand. Hvis man går over ilden mister 1 man liv, når man har gået over ilden 5 gange, går ilden ud
-* FleshEatingPlant: Er repræsenteret som et hvidt "P" med grøn baggrund. Hvis prøver at gå ind i den kødeædende planter, angriber den dig, og man mister 5 liv.
-* Teleport: Er repræsenteret med et blåt "T" med lyserød baggrund.
-* Hints: Er repræsenteret med et blåt "H" med blå baggrund. Disse kan samles op, hvorved et tekststykke bliver tilføjet til spillerens inventory, der kan ses under kanvasset.
-* CodeDoor: Er repræsenteret med et hvidt "H" med sort baggrund. Når du prøver at gå ind i døren, så vil den be dig om at taste et kodeord/password. Dog skal du passe på
+* __Player:__ Er repræsenteret som et hvidt "@" med darkmagenta (lyserød) baggrund. 
+* __Wall:__ Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem disse, og er derfor nødt til at gå rundt om dem. 
+* __Water:__ Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 3 ekstra liv, og vandet forsvinder.
+* __Fire:__ Er repræsenteret som et rødt hvidt "F" med rød baggrundgrand. Hvis man går over ilden mister 1 man liv, når man har gået over ilden 5 gange, går ilden ud
+* __FleshEatingPlant:__ Er repræsenteret som et hvidt "P" med grøn baggrund. Hvis prøver at gå ind i den kødeædende planter, angriber den dig, og man mister 5 liv.
+* __Teleport:__ Er repræsenteret med et blåt "T" med lyserød baggrund.
+* __Hints:__ Er repræsenteret med et blåt "H" med blå baggrund. Disse kan samles op, hvorved et tekststykke bliver tilføjet til spillerens inventory, der kan ses under kanvasset.
+* __CodeDoor:__ Er repræsenteret med et hvidt "H" med sort baggrund. Når du prøver at gå ind i døren, så vil den be dig om at taste et kodeord/password. Dog skal du passe på
   da hvis du taster forkert, så får du stød og mister 2 hitpoints. Tryk "Enter" uden at skrive noget, for at undgå dette, hvis du stadig ikke ved hvad koden er!
 
 ## Test af de forskellige implementeringer ##
