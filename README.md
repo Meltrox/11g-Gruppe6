@@ -32,6 +32,10 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 * __CodeDoor:__ Er repræsenteret med et hvidt "H" med sort baggrund. Når du prøver at gå ind i døren, så vil den be dig om at taste et kodeord/password. Dog skal du passe på
   da hvis du taster forkert, så får du stød og mister 2 hitpoints. Tryk "Enter" uden at skrive noget, for at undgå dette, hvis du stadig ikke ved hvad koden er!
 
+Et billede af ovenstående entities
+
+<img src="https://i.imgur.com/fqkBbD2.png" width="200">
+
 ## Test af de forskellige implementeringer ##
 
 ### Test af klassen "Fire" ###
