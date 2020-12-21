@@ -8,7 +8,7 @@ Opgaven er lavet af:
 ## Hvordan man compiler og kører programmet ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
 
-## Test af de forskellige implementationer ##
+## Test af de forskellige implementeringer ##
 
 ### Test af klassen "Fire" ###
 
@@ -21,7 +21,10 @@ Hvis spilleren mister alle sine HP, dør spilleren og spillet slutter.
 
 Spilleren mister 5HP, når man prøver at gå oven i et felt, som er optaget af en "FleshEatingPlant".
 
-Spilleren skal ved interaktion med "CodeDoor" 
+Spilleren skal ved interaktion med "CodeDoor" indtaste et password. Hvis passwordet er forkert, mister spilleren 2 HP.
+Hvis passwordet er korrekt, åbnes døren.
+
+Spilleren kan kun komme ud af grotten, 
 
 <img src="https://i.imgur.com/OicaF8J.gif" width="600">
 
