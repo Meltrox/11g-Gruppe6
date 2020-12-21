@@ -22,10 +22,10 @@ Man kører programmet ved at skrive følgende kommandoer i kommandoprompten.
 ## Følgende Entities findes i spillet ##
   
 * __Player:__ Er repræsenteret som et hvidt "@" med darkmagenta (lyserød) baggrund. 
-* __Wall:__ Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem disse, og er derfor nødt til at gå rundt om dem. 
-* __Water:__ Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 3 ekstra liv, og vandet forsvinder.
-* __Fire:__ Er repræsenteret som et rødt felt-. Hvis man går over ilden mister 1 man liv, når man har gået over ilden 5 gange, går ilden ud
-* __FleshEatingPlant:__ Er repræsenteret som et hvidt "P" med grøn baggrund. Hvis prøver at gå ind i den kødeædende planter, angriber den dig, og man mister 5 liv.
+* __Wall:__ Er repræsenteret som grå områder/pixels. Spilleren kan ikke gå gennem væggene, og er derfor nødt til at gå rundt om dem. 
+* __Water:__ Er repræsenteret som et hvidt "W" med blå baggrund. Når spilleren går over vandet, får man 2 ekstra liv, og vandet forsvinder.
+* __Fire:__ Er repræsenteret som et rødt felt-. Hvis man går over ilden mister man 1HP. Når man har gået over ilden 5 gange, går ilden ud.
+* __FleshEatingPlant:__ Er repræsenteret som et hvidt "P" med grøn baggrund. Hvis spilleren prøver at gå ind i den kødeædende planter, angriber den spilleren, og man mister 5 HP.
 * __Teleport:__ Er repræsenteret med et blåt "T" med lyserød baggrund.
 * __Hints:__ Er repræsenteret med et blåt "H" med blå baggrund. Disse kan samles op, hvorved et tekststykke bliver tilføjet til spillerens inventory, der kan ses under kanvasset.
 * __CodeDoor:__ Er repræsenteret med et hvidt "H" med sort baggrund. Når du prøver at gå ind i døren, så vil den be dig om at taste et kodeord/password. Dog skal du passe på
