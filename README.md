@@ -5,7 +5,7 @@ Opgaven er lavet af:
 * Johannes Rosendal 
 * Johannes Andersen
 
-## Hvordan man compiler og kører programmeret ##
+## Hvordan man compiler og kører programmet ##
 <img src="https://i.imgur.com/M5rsn25.gif" width="600">
 
 ## Test af de forskellige implementationer ##
